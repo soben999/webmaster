@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Sitemap: https://mixoil09.github.io/webmaster-boti/sitemap.xml
